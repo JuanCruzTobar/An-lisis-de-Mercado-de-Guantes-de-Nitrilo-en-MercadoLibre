@@ -43,5 +43,7 @@ Este análisis proporciona una primera visión al mercado de guantes de nitrilo 
 Para añadir más complejidad y valor al proyecto, se podrían incluir las siguientes mejoras:
 
   **Análisis de Tendencias Temporales:** Incorporar datos históricos para analizar cómo han cambiado los precios y la disponibilidad a lo largo del tiempo.
+  
   **Comparación Regional:** Comparar el mercado de guantes de nitrilo en diferentes regiones.
+  
   **Análisis de Sentimientos:** Utilizar web scraping para obtener reseñas de clientes para luego utilizar técnicas de procesamiento de lenguaje natural (NLP) para analizarlas y obtener insights sobre la satisfacción de los compradores.
