@@ -29,10 +29,10 @@ Puedes acceder al tablero interactivo en Looker Studio a través del siguiente e
 
 El tablero en Looker Studio incluye las siguientes visualizaciones:
 
-  **Número de Anuncios Activos y Valor Potencial:** Indicadores clave del tamaño del mercado.
-  **Gráfico de Barras:** Precio unitario promedio vs Unidades en venta.
-  **Gráfico de Pastel:** Distribución de marcas a la venta.
-  **Filtros Interactivos:** Filtros para formato de venta y rango de precios.
+  1. **Número de Anuncios Activos y Valor Potencial:** Indicadores clave del tamaño del mercado.
+  2. **Gráfico de Barras:** Precio unitario promedio vs Unidades en venta.
+  3. **Gráfico de Pastel:** Distribución de marcas a la venta.
+  4. **Filtros Interactivos:** Filtros para formato de venta y rango de precios.
 
 ## Conclusión
 
