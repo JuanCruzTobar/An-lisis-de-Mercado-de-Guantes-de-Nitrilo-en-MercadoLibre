@@ -24,7 +24,8 @@ El proyecto consta de los siguientes componentes:
 ## Tablero Interactivo
 
 Puedes acceder al tablero interactivo en Looker Studio a través del siguiente enlace: https://lookerstudio.google.com/s/ud9PTnp4Ow0
-![Dashboard](look_studio_dashboard.PNG)
+
+![Dashboard](look_studio_dashboard.png)
 
 ## Resultados
 
